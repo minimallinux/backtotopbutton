@@ -1,0 +1,16 @@
+/*Button Style*/
+#topBtn {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 99;
+  border: none;
+  outline: none;
+  background-color:transparent;
+/*Optional color the button
+  color:rgba(202, 219, 118, .5)*/
+}
+#topBtn:hover {
+  background-color:#transparent;
+}
