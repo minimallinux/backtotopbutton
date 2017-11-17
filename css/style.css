@@ -9,7 +9,7 @@
   outline: none;
   background-color:transparent;
 /*Optional color the button
-  color:rgba(202, 219, 118, .5)*/
+  color:rgba(128, 128, 128, .7);*/
 }
 #topBtn:hover {
   background-color:#transparent;
